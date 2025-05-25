@@ -1,0 +1,361 @@
+﻿  MainXiao.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainXiao.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\MainXiao.cpp(5,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\MainXiao.cpp(71,3): warning C4060: switch 语句没有包含“case”或“default”标签
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\MainXiao.cpp(80,3): error C2045: “case10”: 标签重定义
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\MainXiao.cpp(85,3): warning C4060: switch 语句没有包含“case”或“default”标签
+  PlayerRecoDiff.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“PlayerRecoDiff.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\PlayerRecoDiff.cpp(3,12): error C2011: “Difficulty”:“enum”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(30,12):
+      参见“Difficulty”的声明
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\PlayerRecoDiff.cpp(12,7): error C2011: “Record”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(75,7):
+      参见“Record”的声明
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\PlayerRecoDiff.cpp(78,7): error C2011: “Player”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(99,7):
+      参见“Player”的声明
+  
+  GameTimer.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameTimer.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\GameTimer.cpp(3,7): error C2011: “GameTimer”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(38,7):
+      参见“GameTimer”的声明
+  
+  Game.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Game.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Game.cpp(3,7): error C2011: “Game”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(131,7):
+      参见“Game”的声明
+  
+  GameManager.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“GameManager.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\GameManager.cpp(3,7): error C2011: “GameManager”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(156,7):
+      参见“GameManager”的声明
+  
+  DataStorage.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“DataStorage.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\DataStorage.cpp(3,7): error C2011: “DataStorage”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(178,7):
+      参见“DataStorage”的声明
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\DataStorage.cpp(147,7): error C2011: “DataForLevel”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(190,7):
+      参见“DataForLevel”的声明
+  
+  MainMenu.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“MainMenu.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“MainMenu.cpp”)
+  
+  Question.cpp
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(84,15): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(86,25): error C2061: 语法错误: 标识符“Player”
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,101): error C2065: “owner”: 未声明的标识符
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(87,95): error C2614: “Record”: 非法的成员初始化:“owner”不是基或成员
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(108,22): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(110,36): error C2061: 语法错误: 标识符“DataStorage”
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(127,33): error C2238: 意外的标记位于“;”之前
+  (编译源文件“Question.cpp”)
+  
+C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Question.cpp(3,7): error C2011: “Question”:“class”类型重定义
+      C:\Users\Sinon\source\repos\不喜欢玩，所以咲夜来救我\不喜欢玩，所以咲夜来救我\Xiao.h(51,7):
+      参见“Question”的声明
+  
+  正在生成代码...
